@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      2024H1230173P
+HostName                       lenovo-56.pilani.bits-pilani.ac.in
+ProcessIdentifier              41847
+ProcessCreationTime_UTC        1731828626
+ProcessCreationTime_Readable   Sun Nov 17 13:00:26 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /projects/2024H1230173P/arun/VLSI_project/LFA_prefix_8/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Nov 17 13:53:52 2024 IST
